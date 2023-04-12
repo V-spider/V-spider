@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @V-spider
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Javascript 
+- 🌱 I’m currently learning React js
+- 💞️ I’m looking to collaborate on any Front end open source projects
+- 📫 How to reach me 
+  - Email: mahmudhassen01@gmail.com
 
-<!---
-V-spider/V-spider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
